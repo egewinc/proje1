@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Araç Listesi</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Araçlar & Kullanıcılar</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="/Home/Anasayfa">Anasayfa</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Home/Iletisim">İletişim Bilgileri</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Arac/Index">Admin</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Home/Karsilastir">Karşılaştır</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Araç Arama ve Listeleme -->
+    <div class="container mt-4">
+        <h2>Araç Listesi</h2>
+
+        <!-- Arama Kutusu -->
+        <input type="text" id="searchInput" class="form-control mb-3" placeholder="Marka veya Model Ara..." onkeyup="filterTable()">
+
+        <!-- Araç Tablosu -->
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Marka</th>
+                    <th scope="col">Model</th>
+                    <th scope="col">Yıl</th>
+                    <th scope="col">Fiyat</th>
+                </tr>
+            </thead>
+            <tbody id="vehicleTable">
+                @foreach (var arac in Model.Araclar)
+                {
+                    <tr>
+                        <td>@arac.Id</td>
+                        <td>@arac.Marka</td>
+                        <td>@arac.Model</td>
+                        <td>@arac.Yil</td>
+                        <td>@arac.Fiyat ₺</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        function filterTable() {
+            var input, filter, table, tr, td, i, txtValue;
+            input = document.getElementById("searchInput");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("vehicleTable");
+            tr = table.getElementsByTagName("tr");
+
+            for (i = 0; i < tr.length; i++) {
+                td1 = tr[i].getElementsByTagName("td")[1]; // Marka sütunu
+                td2 = tr[i].getElementsByTagName("td")[2]; // Model sütunu
+
+                if (td1 || td2) {
+                    txtValue1 = td1.textContent || td1.innerText;
+                    txtValue2 = td2.textContent || td2.innerText;
+                    if (txtValue1.toUpperCase().indexOf(filter) > -1 || txtValue2.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }       
+            }
+        }
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

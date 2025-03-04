@@ -1,0 +1,4102 @@
+{
+  "Version": 1,
+  "Hash": "xLYpYpdMXa8GD7LY3FOdD+2n0R3l8LNF8uMFhpvTK5A=",
+  "Source": "Ege",
+  "BasePath": "_content/Ege",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ege/wwwroot",
+      "Source": "Ege",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/45hrvhcam9-hfgmanx71r.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.esm.min#[.{fingerprint=hfgmanx71r}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "39bpw1nhqt",
+      "Integrity": "N3nrNDFmOBxwhJuCBbdXx3PkjYfDh0HIm62WwsB6x20=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.min.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/4ke7ndpqdz-5h4eqbgehz.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.esm.js#[.{fingerprint=5h4eqbgehz}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "m4nf2if7ei",
+      "Integrity": "1px5+srzHsBsdlasM9nS5z2zYhauDtZN0UlyaK9jAGk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/c9ku6c5o1f-i9vdo92k9r.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.bundle#[.{fingerprint=i9vdo92k9r}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ufqzqphvlh",
+      "Integrity": "mp6wVsDh1YIcKBt3Npdq0n/JUlG0yWL5apQ3zfkPJLY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/g94khswve3-o5u70gd5ki.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.js#[.{fingerprint=o5u70gd5ki}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "42jusz4x4g",
+      "Integrity": "/EMOoPxxOdZO0a2soGmpzj+TI5GGtYH5XSlWphs9PRQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.js.map"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/h6n4cl9pn5-5cfhfmwa46.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.min.js#[.{fingerprint=5cfhfmwa46}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.min.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "h2loqir7e5",
+      "Integrity": "Vy24FvEeO3j5+5db7BQs/tglYmFvyvcMz00O+3u37Ws=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.min.js.map"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/ipaoffu2lq-f0q9fwf5fe.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.esm#[.{fingerprint=f0q9fwf5fe}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "s21cvzvopy",
+      "Integrity": "jJTeW75VGAKRGEuHZ644NwGSgynwgM8awH+4JprxoNA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/mkfkshthmv-1hlhnlro98.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.bundle.min#[.{fingerprint=1hlhnlro98}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hls9sued2c",
+      "Integrity": "+xIOheuunwmzjx58lzIF88kR5kNx+TZbg2OIve+ayn0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/nqggtrluv3-4f4mn36634.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.bundle.min.js#[.{fingerprint=4f4mn36634}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.min.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "r135p40tjo",
+      "Integrity": "Udgw4u+WFNWeQ1lNiFuHgT5thKZHkpBTBiaAjn7sUV8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/p3slcagm6w-sd8m0mrqk2.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap#[.{fingerprint=sd8m0mrqk2}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "e83hu48mhl",
+      "Integrity": "YmeRMPqnX0jXoY9+NSJ/VfA9iR4VKV8aTtFnqnbQjsE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/pfr2ak9zpm-21fyre54ln.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.bundle.js#[.{fingerprint=21fyre54ln}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qlfr42gzkg",
+      "Integrity": "QuzoCRp1LmKTLKzRhiK7XninvBZG6zxHNhp36XAv8jQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/pjlymujiyt-46l47totxw.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.esm.min.js#[.{fingerprint=46l47totxw}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.min.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jd0e706cw8",
+      "Integrity": "mT+dBP0eM77avv/kZrIGwfT5G9zYmGueTdgQe7pGlrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/wxh2ma1q7o-4fv6c7pjv0.gz",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.min#[.{fingerprint=4fv6c7pjv0}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/macbookair/Ege/wwwroot/js/bootstrap.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cpxo0j3p0p",
+      "Integrity": "oFzxMQOu/IcotXzVTW58VRJUwaUw+GW2jSD8+CtoTlg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macbookair/Ege/wwwroot/js/bootstrap.min.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.js",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.bundle#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i9vdo92k9r",
+      "Integrity": "htsAUOIgN8xkootpQUzmvaCbQo6x2PNMTD7kLWI6yYQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.bundle.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.js.map",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.bundle.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "21fyre54ln",
+      "Integrity": "lsPm5DcIqnFEDqtHFZylPy+oeD4Vj0dUR0HDqtlf8g0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.min.js",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1hlhnlro98",
+      "Integrity": "9SEPo+fwJFpMUet/KACSwO+Z/dKMReF9q4zFhU/fT9M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.min.js.map",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4f4mn36634",
+      "Integrity": "4AIg+DUvLEhrD449VhB+bInGg13QNQ0l81ZViETpaPY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.js",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.esm#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f0q9fwf5fe",
+      "Integrity": "EfWjlQ9bVZaR3viag3NR65rpZQ6g8AsAmyXEAg3F8qg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.esm.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.js.map",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.esm.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5h4eqbgehz",
+      "Integrity": "KfTucCvmP9o6hdwwk756jxjs81QMGxpUBfalGPFdo8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.esm.js.map"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.min.js",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.esm.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hfgmanx71r",
+      "Integrity": "rdKWWewlMLFe17ezfQQc+24V8OjK+dS0+MNwDJOW6WY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.esm.min.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.min.js.map",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46l47totxw",
+      "Integrity": "LP/ijIvhjfNzLmOqsxN9DWc5mwnmRLrn64nl87/OnHA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.js",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sd8m0mrqk2",
+      "Integrity": "EOQQAD7Fyueb25xfLqClMgQm9UNNO9JeZu4IyyDJi/U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.js.map",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o5u70gd5ki",
+      "Integrity": "bOS2SHM6Wn0AhuhSCscSoz6gkq/c3FARPCMzFIGhteM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.js.map"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.min.js",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4fv6c7pjv0",
+      "Integrity": "cMPWkL3FzjuaFSfEYESYmjF25hCIL6mfRSPnW8OVvM4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.min.js"
+    },
+    {
+      "Identity": "/Users/macbookair/Ege/wwwroot/js/bootstrap.min.js.map",
+      "SourceId": "Ege",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macbookair/Ege/wwwroot/",
+      "BasePath": "_content/Ege",
+      "RelativePath": "js/bootstrap.min.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5cfhfmwa46",
+      "Integrity": "5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/bootstrap.min.js.map"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "js/bootstrap.bundle.i9vdo92k9r.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/c9ku6c5o1f-i9vdo92k9r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000022993792"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43489"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mp6wVsDh1YIcKBt3Npdq0n/JUlG0yWL5apQ3zfkPJLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"htsAUOIgN8xkootpQUzmvaCbQo6x2PNMTD7kLWI6yYQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i9vdo92k9r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-htsAUOIgN8xkootpQUzmvaCbQo6x2PNMTD7kLWI6yYQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.i9vdo92k9r.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"htsAUOIgN8xkootpQUzmvaCbQo6x2PNMTD7kLWI6yYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i9vdo92k9r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-htsAUOIgN8xkootpQUzmvaCbQo6x2PNMTD7kLWI6yYQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.i9vdo92k9r.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/c9ku6c5o1f-i9vdo92k9r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43489"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mp6wVsDh1YIcKBt3Npdq0n/JUlG0yWL5apQ3zfkPJLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i9vdo92k9r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mp6wVsDh1YIcKBt3Npdq0n/JUlG0yWL5apQ3zfkPJLY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/c9ku6c5o1f-i9vdo92k9r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000022993792"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43489"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mp6wVsDh1YIcKBt3Npdq0n/JUlG0yWL5apQ3zfkPJLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"htsAUOIgN8xkootpQUzmvaCbQo6x2PNMTD7kLWI6yYQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-htsAUOIgN8xkootpQUzmvaCbQo6x2PNMTD7kLWI6yYQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"htsAUOIgN8xkootpQUzmvaCbQo6x2PNMTD7kLWI6yYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-htsAUOIgN8xkootpQUzmvaCbQo6x2PNMTD7kLWI6yYQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.js.21fyre54ln.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/pfr2ak9zpm-21fyre54ln.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010348539"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96631"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QuzoCRp1LmKTLKzRhiK7XninvBZG6zxHNhp36XAv8jQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lsPm5DcIqnFEDqtHFZylPy+oeD4Vj0dUR0HDqtlf8g0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "21fyre54ln"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lsPm5DcIqnFEDqtHFZylPy+oeD4Vj0dUR0HDqtlf8g0="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.js.21fyre54ln.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "427637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lsPm5DcIqnFEDqtHFZylPy+oeD4Vj0dUR0HDqtlf8g0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "21fyre54ln"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lsPm5DcIqnFEDqtHFZylPy+oeD4Vj0dUR0HDqtlf8g0="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.js.21fyre54ln.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/pfr2ak9zpm-21fyre54ln.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QuzoCRp1LmKTLKzRhiK7XninvBZG6zxHNhp36XAv8jQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "21fyre54ln"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QuzoCRp1LmKTLKzRhiK7XninvBZG6zxHNhp36XAv8jQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/c9ku6c5o1f-i9vdo92k9r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43489"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mp6wVsDh1YIcKBt3Npdq0n/JUlG0yWL5apQ3zfkPJLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mp6wVsDh1YIcKBt3Npdq0n/JUlG0yWL5apQ3zfkPJLY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.js.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/pfr2ak9zpm-21fyre54ln.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010348539"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96631"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QuzoCRp1LmKTLKzRhiK7XninvBZG6zxHNhp36XAv8jQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lsPm5DcIqnFEDqtHFZylPy+oeD4Vj0dUR0HDqtlf8g0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lsPm5DcIqnFEDqtHFZylPy+oeD4Vj0dUR0HDqtlf8g0="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.js.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "427637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lsPm5DcIqnFEDqtHFZylPy+oeD4Vj0dUR0HDqtlf8g0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lsPm5DcIqnFEDqtHFZylPy+oeD4Vj0dUR0HDqtlf8g0="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.js.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/pfr2ak9zpm-21fyre54ln.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QuzoCRp1LmKTLKzRhiK7XninvBZG6zxHNhp36XAv8jQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QuzoCRp1LmKTLKzRhiK7XninvBZG6zxHNhp36XAv8jQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.1hlhnlro98.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/mkfkshthmv-1hlhnlro98.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000043077453"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23213"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xIOheuunwmzjx58lzIF88kR5kNx+TZbg2OIve+ayn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9SEPo+fwJFpMUet/KACSwO+Z/dKMReF9q4zFhU/fT9M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hlhnlro98"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9SEPo+fwJFpMUet/KACSwO+Z/dKMReF9q4zFhU/fT9M="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.1hlhnlro98.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9SEPo+fwJFpMUet/KACSwO+Z/dKMReF9q4zFhU/fT9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hlhnlro98"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9SEPo+fwJFpMUet/KACSwO+Z/dKMReF9q4zFhU/fT9M="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.1hlhnlro98.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/mkfkshthmv-1hlhnlro98.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xIOheuunwmzjx58lzIF88kR5kNx+TZbg2OIve+ayn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hlhnlro98"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xIOheuunwmzjx58lzIF88kR5kNx+TZbg2OIve+ayn0="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/mkfkshthmv-1hlhnlro98.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000043077453"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23213"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xIOheuunwmzjx58lzIF88kR5kNx+TZbg2OIve+ayn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9SEPo+fwJFpMUet/KACSwO+Z/dKMReF9q4zFhU/fT9M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9SEPo+fwJFpMUet/KACSwO+Z/dKMReF9q4zFhU/fT9M="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9SEPo+fwJFpMUet/KACSwO+Z/dKMReF9q4zFhU/fT9M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9SEPo+fwJFpMUet/KACSwO+Z/dKMReF9q4zFhU/fT9M="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js.4f4mn36634.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/nqggtrluv3-4f4mn36634.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011678696"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Udgw4u+WFNWeQ1lNiFuHgT5thKZHkpBTBiaAjn7sUV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4AIg+DUvLEhrD449VhB+bInGg13QNQ0l81ZViETpaPY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4f4mn36634"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4AIg+DUvLEhrD449VhB+bInGg13QNQ0l81ZViETpaPY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js.4f4mn36634.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4AIg+DUvLEhrD449VhB+bInGg13QNQ0l81ZViETpaPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4f4mn36634"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4AIg+DUvLEhrD449VhB+bInGg13QNQ0l81ZViETpaPY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js.4f4mn36634.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/nqggtrluv3-4f4mn36634.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Udgw4u+WFNWeQ1lNiFuHgT5thKZHkpBTBiaAjn7sUV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4f4mn36634"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.bundle.min.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Udgw4u+WFNWeQ1lNiFuHgT5thKZHkpBTBiaAjn7sUV8="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/mkfkshthmv-1hlhnlro98.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xIOheuunwmzjx58lzIF88kR5kNx+TZbg2OIve+ayn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xIOheuunwmzjx58lzIF88kR5kNx+TZbg2OIve+ayn0="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/nqggtrluv3-4f4mn36634.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011678696"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85625"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Udgw4u+WFNWeQ1lNiFuHgT5thKZHkpBTBiaAjn7sUV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4AIg+DUvLEhrD449VhB+bInGg13QNQ0l81ZViETpaPY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4AIg+DUvLEhrD449VhB+bInGg13QNQ0l81ZViETpaPY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.bundle.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4AIg+DUvLEhrD449VhB+bInGg13QNQ0l81ZViETpaPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4AIg+DUvLEhrD449VhB+bInGg13QNQ0l81ZViETpaPY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.bundle.min.js.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/nqggtrluv3-4f4mn36634.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Udgw4u+WFNWeQ1lNiFuHgT5thKZHkpBTBiaAjn7sUV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Udgw4u+WFNWeQ1lNiFuHgT5thKZHkpBTBiaAjn7sUV8="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.f0q9fwf5fe.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/ipaoffu2lq-f0q9fwf5fe.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000035644270"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28054"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jJTeW75VGAKRGEuHZ644NwGSgynwgM8awH+4JprxoNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EfWjlQ9bVZaR3viag3NR65rpZQ6g8AsAmyXEAg3F8qg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f0q9fwf5fe"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EfWjlQ9bVZaR3viag3NR65rpZQ6g8AsAmyXEAg3F8qg="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.f0q9fwf5fe.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EfWjlQ9bVZaR3viag3NR65rpZQ6g8AsAmyXEAg3F8qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f0q9fwf5fe"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EfWjlQ9bVZaR3viag3NR65rpZQ6g8AsAmyXEAg3F8qg="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.f0q9fwf5fe.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/ipaoffu2lq-f0q9fwf5fe.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jJTeW75VGAKRGEuHZ644NwGSgynwgM8awH+4JprxoNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f0q9fwf5fe"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jJTeW75VGAKRGEuHZ644NwGSgynwgM8awH+4JprxoNA="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/ipaoffu2lq-f0q9fwf5fe.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000035644270"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28054"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jJTeW75VGAKRGEuHZ644NwGSgynwgM8awH+4JprxoNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EfWjlQ9bVZaR3viag3NR65rpZQ6g8AsAmyXEAg3F8qg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EfWjlQ9bVZaR3viag3NR65rpZQ6g8AsAmyXEAg3F8qg="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EfWjlQ9bVZaR3viag3NR65rpZQ6g8AsAmyXEAg3F8qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EfWjlQ9bVZaR3viag3NR65rpZQ6g8AsAmyXEAg3F8qg="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.js.5h4eqbgehz.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/4ke7ndpqdz-5h4eqbgehz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014822501"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67464"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1px5+srzHsBsdlasM9nS5z2zYhauDtZN0UlyaK9jAGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KfTucCvmP9o6hdwwk756jxjs81QMGxpUBfalGPFdo8I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5h4eqbgehz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KfTucCvmP9o6hdwwk756jxjs81QMGxpUBfalGPFdo8I="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.js.5h4eqbgehz.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KfTucCvmP9o6hdwwk756jxjs81QMGxpUBfalGPFdo8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5h4eqbgehz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KfTucCvmP9o6hdwwk756jxjs81QMGxpUBfalGPFdo8I="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.js.5h4eqbgehz.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/4ke7ndpqdz-5h4eqbgehz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1px5+srzHsBsdlasM9nS5z2zYhauDtZN0UlyaK9jAGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5h4eqbgehz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1px5+srzHsBsdlasM9nS5z2zYhauDtZN0UlyaK9jAGk="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/ipaoffu2lq-f0q9fwf5fe.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jJTeW75VGAKRGEuHZ644NwGSgynwgM8awH+4JprxoNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:42:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jJTeW75VGAKRGEuHZ644NwGSgynwgM8awH+4JprxoNA="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.js.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/4ke7ndpqdz-5h4eqbgehz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014822501"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67464"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1px5+srzHsBsdlasM9nS5z2zYhauDtZN0UlyaK9jAGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KfTucCvmP9o6hdwwk756jxjs81QMGxpUBfalGPFdo8I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KfTucCvmP9o6hdwwk756jxjs81QMGxpUBfalGPFdo8I="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.js.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KfTucCvmP9o6hdwwk756jxjs81QMGxpUBfalGPFdo8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KfTucCvmP9o6hdwwk756jxjs81QMGxpUBfalGPFdo8I="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.js.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/4ke7ndpqdz-5h4eqbgehz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1px5+srzHsBsdlasM9nS5z2zYhauDtZN0UlyaK9jAGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1px5+srzHsBsdlasM9nS5z2zYhauDtZN0UlyaK9jAGk="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.hfgmanx71r.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/45hrvhcam9-hfgmanx71r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000053659584"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18635"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3nrNDFmOBxwhJuCBbdXx3PkjYfDh0HIm62WwsB6x20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rdKWWewlMLFe17ezfQQc+24V8OjK+dS0+MNwDJOW6WY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hfgmanx71r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rdKWWewlMLFe17ezfQQc+24V8OjK+dS0+MNwDJOW6WY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.hfgmanx71r.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rdKWWewlMLFe17ezfQQc+24V8OjK+dS0+MNwDJOW6WY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hfgmanx71r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rdKWWewlMLFe17ezfQQc+24V8OjK+dS0+MNwDJOW6WY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.hfgmanx71r.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/45hrvhcam9-hfgmanx71r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3nrNDFmOBxwhJuCBbdXx3PkjYfDh0HIm62WwsB6x20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hfgmanx71r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N3nrNDFmOBxwhJuCBbdXx3PkjYfDh0HIm62WwsB6x20="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/45hrvhcam9-hfgmanx71r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000053659584"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18635"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3nrNDFmOBxwhJuCBbdXx3PkjYfDh0HIm62WwsB6x20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rdKWWewlMLFe17ezfQQc+24V8OjK+dS0+MNwDJOW6WY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rdKWWewlMLFe17ezfQQc+24V8OjK+dS0+MNwDJOW6WY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rdKWWewlMLFe17ezfQQc+24V8OjK+dS0+MNwDJOW6WY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rdKWWewlMLFe17ezfQQc+24V8OjK+dS0+MNwDJOW6WY="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.js.46l47totxw.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/pjlymujiyt-46l47totxw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000017942369"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mT+dBP0eM77avv/kZrIGwfT5G9zYmGueTdgQe7pGlrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LP/ijIvhjfNzLmOqsxN9DWc5mwnmRLrn64nl87/OnHA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46l47totxw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LP/ijIvhjfNzLmOqsxN9DWc5mwnmRLrn64nl87/OnHA="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.js.46l47totxw.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "223558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LP/ijIvhjfNzLmOqsxN9DWc5mwnmRLrn64nl87/OnHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46l47totxw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LP/ijIvhjfNzLmOqsxN9DWc5mwnmRLrn64nl87/OnHA="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.js.46l47totxw.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/pjlymujiyt-46l47totxw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mT+dBP0eM77avv/kZrIGwfT5G9zYmGueTdgQe7pGlrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46l47totxw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.esm.min.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mT+dBP0eM77avv/kZrIGwfT5G9zYmGueTdgQe7pGlrQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/45hrvhcam9-hfgmanx71r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3nrNDFmOBxwhJuCBbdXx3PkjYfDh0HIm62WwsB6x20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N3nrNDFmOBxwhJuCBbdXx3PkjYfDh0HIm62WwsB6x20="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.js.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/pjlymujiyt-46l47totxw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000017942369"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mT+dBP0eM77avv/kZrIGwfT5G9zYmGueTdgQe7pGlrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LP/ijIvhjfNzLmOqsxN9DWc5mwnmRLrn64nl87/OnHA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LP/ijIvhjfNzLmOqsxN9DWc5mwnmRLrn64nl87/OnHA="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.js.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.esm.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "223558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LP/ijIvhjfNzLmOqsxN9DWc5mwnmRLrn64nl87/OnHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LP/ijIvhjfNzLmOqsxN9DWc5mwnmRLrn64nl87/OnHA="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.esm.min.js.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/pjlymujiyt-46l47totxw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mT+dBP0eM77avv/kZrIGwfT5G9zYmGueTdgQe7pGlrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mT+dBP0eM77avv/kZrIGwfT5G9zYmGueTdgQe7pGlrQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/p3slcagm6w-sd8m0mrqk2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000034747559"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28778"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YmeRMPqnX0jXoY9+NSJ/VfA9iR4VKV8aTtFnqnbQjsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EOQQAD7Fyueb25xfLqClMgQm9UNNO9JeZu4IyyDJi/U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOQQAD7Fyueb25xfLqClMgQm9UNNO9JeZu4IyyDJi/U="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EOQQAD7Fyueb25xfLqClMgQm9UNNO9JeZu4IyyDJi/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOQQAD7Fyueb25xfLqClMgQm9UNNO9JeZu4IyyDJi/U="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/p3slcagm6w-sd8m0mrqk2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YmeRMPqnX0jXoY9+NSJ/VfA9iR4VKV8aTtFnqnbQjsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YmeRMPqnX0jXoY9+NSJ/VfA9iR4VKV8aTtFnqnbQjsE="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/g94khswve3-o5u70gd5ki.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014748175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67804"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/EMOoPxxOdZO0a2soGmpzj+TI5GGtYH5XSlWphs9PRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bOS2SHM6Wn0AhuhSCscSoz6gkq/c3FARPCMzFIGhteM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bOS2SHM6Wn0AhuhSCscSoz6gkq/c3FARPCMzFIGhteM="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bOS2SHM6Wn0AhuhSCscSoz6gkq/c3FARPCMzFIGhteM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bOS2SHM6Wn0AhuhSCscSoz6gkq/c3FARPCMzFIGhteM="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/g94khswve3-o5u70gd5ki.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/EMOoPxxOdZO0a2soGmpzj+TI5GGtYH5XSlWphs9PRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/EMOoPxxOdZO0a2soGmpzj+TI5GGtYH5XSlWphs9PRQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js.o5u70gd5ki.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/g94khswve3-o5u70gd5ki.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014748175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67804"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/EMOoPxxOdZO0a2soGmpzj+TI5GGtYH5XSlWphs9PRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bOS2SHM6Wn0AhuhSCscSoz6gkq/c3FARPCMzFIGhteM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o5u70gd5ki"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bOS2SHM6Wn0AhuhSCscSoz6gkq/c3FARPCMzFIGhteM="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js.o5u70gd5ki.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "290776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bOS2SHM6Wn0AhuhSCscSoz6gkq/c3FARPCMzFIGhteM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o5u70gd5ki"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bOS2SHM6Wn0AhuhSCscSoz6gkq/c3FARPCMzFIGhteM="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.js.o5u70gd5ki.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/g94khswve3-o5u70gd5ki.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67804"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/EMOoPxxOdZO0a2soGmpzj+TI5GGtYH5XSlWphs9PRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o5u70gd5ki"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/EMOoPxxOdZO0a2soGmpzj+TI5GGtYH5XSlWphs9PRQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.4fv6c7pjv0.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/wxh2ma1q7o-4fv6c7pjv0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000060990485"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oFzxMQOu/IcotXzVTW58VRJUwaUw+GW2jSD8+CtoTlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cMPWkL3FzjuaFSfEYESYmjF25hCIL6mfRSPnW8OVvM4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4fv6c7pjv0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cMPWkL3FzjuaFSfEYESYmjF25hCIL6mfRSPnW8OVvM4="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.4fv6c7pjv0.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cMPWkL3FzjuaFSfEYESYmjF25hCIL6mfRSPnW8OVvM4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4fv6c7pjv0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cMPWkL3FzjuaFSfEYESYmjF25hCIL6mfRSPnW8OVvM4="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.4fv6c7pjv0.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/wxh2ma1q7o-4fv6c7pjv0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oFzxMQOu/IcotXzVTW58VRJUwaUw+GW2jSD8+CtoTlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4fv6c7pjv0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oFzxMQOu/IcotXzVTW58VRJUwaUw+GW2jSD8+CtoTlg="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/wxh2ma1q7o-4fv6c7pjv0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000060990485"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oFzxMQOu/IcotXzVTW58VRJUwaUw+GW2jSD8+CtoTlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"cMPWkL3FzjuaFSfEYESYmjF25hCIL6mfRSPnW8OVvM4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cMPWkL3FzjuaFSfEYESYmjF25hCIL6mfRSPnW8OVvM4="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59219"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cMPWkL3FzjuaFSfEYESYmjF25hCIL6mfRSPnW8OVvM4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cMPWkL3FzjuaFSfEYESYmjF25hCIL6mfRSPnW8OVvM4="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js.5cfhfmwa46.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/h6n4cl9pn5-5cfhfmwa46.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000018334158"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54542"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vy24FvEeO3j5+5db7BQs/tglYmFvyvcMz00O+3u37Ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5cfhfmwa46"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js.5cfhfmwa46.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5cfhfmwa46"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js.5cfhfmwa46.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/h6n4cl9pn5-5cfhfmwa46.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54542"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vy24FvEeO3j5+5db7BQs/tglYmFvyvcMz00O+3u37Ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5cfhfmwa46"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.min.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vy24FvEeO3j5+5db7BQs/tglYmFvyvcMz00O+3u37Ws="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/wxh2ma1q7o-4fv6c7pjv0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oFzxMQOu/IcotXzVTW58VRJUwaUw+GW2jSD8+CtoTlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oFzxMQOu/IcotXzVTW58VRJUwaUw+GW2jSD8+CtoTlg="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js.map",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/h6n4cl9pn5-5cfhfmwa46.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000018334158"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54542"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vy24FvEeO3j5+5db7BQs/tglYmFvyvcMz00O+3u37Ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js.map",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.min.js.map.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/h6n4cl9pn5-5cfhfmwa46.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54542"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vy24FvEeO3j5+5db7BQs/tglYmFvyvcMz00O+3u37Ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vy24FvEeO3j5+5db7BQs/tglYmFvyvcMz00O+3u37Ws="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.sd8m0mrqk2.js",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/p3slcagm6w-sd8m0mrqk2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000034747559"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28778"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YmeRMPqnX0jXoY9+NSJ/VfA9iR4VKV8aTtFnqnbQjsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EOQQAD7Fyueb25xfLqClMgQm9UNNO9JeZu4IyyDJi/U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sd8m0mrqk2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOQQAD7Fyueb25xfLqClMgQm9UNNO9JeZu4IyyDJi/U="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.sd8m0mrqk2.js",
+      "AssetFile": "/Users/macbookair/Ege/wwwroot/js/bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EOQQAD7Fyueb25xfLqClMgQm9UNNO9JeZu4IyyDJi/U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sd8m0mrqk2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOQQAD7Fyueb25xfLqClMgQm9UNNO9JeZu4IyyDJi/U="
+        }
+      ]
+    },
+    {
+      "Route": "js/bootstrap.sd8m0mrqk2.js.gz",
+      "AssetFile": "/Users/macbookair/Ege/obj/Debug/net9.0/compressed/p3slcagm6w-sd8m0mrqk2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YmeRMPqnX0jXoY9+NSJ/VfA9iR4VKV8aTtFnqnbQjsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 06:41:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sd8m0mrqk2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bootstrap.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YmeRMPqnX0jXoY9+NSJ/VfA9iR4VKV8aTtFnqnbQjsE="
+        }
+      ]
+    }
+  ]
+}

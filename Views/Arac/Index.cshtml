@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>@ViewData["Title"]</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Araçlar & Kullanıcılar</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/Home/Anasayfa">Anasayfa</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Home/Iletisim">İletişim Bilgileri</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Arac/Index">Admin</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <h1>@ViewData["Title"]</h1>
+
+        <h2>Araçlar</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Marka</th>
+                    <th scope="col">Model</th>
+                    <th scope="col">Yıl</th>
+                    <th scope="col">Fiyat</th>
+                    <th scope="col">İşlemler</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var arac in Model.Araclar)
+                {
+                    <tr>
+                        <td>@arac.Id</td>
+                        <td>@arac.Marka</td>
+                        <td>@arac.Model</td>
+                        <td>@arac.Yil</td>
+                        <td>@arac.Fiyat</td>
+                        <td><form method="post" asp-controller="Arac" asp-action="Delete" onsubmit="alert('Silmek isteidiğinize eminmisiniz?');">
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="Id" value="@arac.Id" />
+                            <button type="submit" class="btn btn-danger">Sil</button>
+                        </form></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <h2>Kullanıcılar</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Ad</th>
+                    <th scope="col">Soyad</th>
+                    <th scope="col">Yaş</th>
+                    <th scope="col">Araç</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var kullanici in Model.Kullanicilar)
+                {
+                    <tr>
+                        <td>@kullanici.Id</td>
+                        <td>@kullanici.Ad</td>
+                        <td>@kullanici.Soyad</td>
+                        <td>@kullanici.Yas</td>
+                        <td>@kullanici.Arac.Marka @kullanici.Arac.Model</td>
+                    
+                    </tr>
+                }
+            </tbody> 
+        </table>
+    </div>
+    <a href="@Url.Action("Create", "Arac")" class="btn btn-secondary">Kullanıcı Ekle </a>
+</a>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

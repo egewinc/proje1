@@ -1,0 +1,137 @@
+@model Ege.ViewModels.KarsilastirmaViewModel
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Araç Karşılaştırma</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Araçlar & Kullanıcılar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link active" href="/Home/Anasayfa">Anasayfa</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/Home/Iletisim">İletişim Bilgileri</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/Arac/Index">Admin</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/Home/Karsilastir">Karşılaştır</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    
+    <h2>Araç Karşılaştır</h2>
+
+    <!-- Araç Seçim Formu -->
+    <form method="post" asp-action="Karsilastir">
+        <div class="form-group">
+            <label for="id1">Araç 1:</label>
+            <select name="id1" id="id1" class="form-control">
+                @foreach (var arac in Model.Araclar)
+                {
+                    <option value="@arac.Id">@arac.Marka</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="id2">Araç 2:</label>
+            <select name="id2" id="id2" class="form-control">
+                @foreach (var arac in Model.Araclar)
+                {
+                    <option value="@arac.Id">@arac.Marka</option>
+                }
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Karşılaştır</button>
+    </form>
+
+
+    <!-- Karşılaştırma Sonuçları -->
+    @if (Model.Arac1 != null && Model.Arac2 != null)
+    {
+        <h3 class="mt-4">Karşılaştırma Sonuçları</h3>
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Araç Özelliği</th>
+                    <th>@Model.Arac1.Model</th>
+                    <th>@Model.Arac2.Model</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr>
+                    <td>Model</td>
+                    <td>@Model.Arac1.Model</td>
+                    <td>@Model.Arac2.Model</td>
+                </tr>
+                <tr>
+                    <td>Yıl</td>
+                    <td>@Model.Arac1.Yil</td>
+                    <td>@Model.Arac2.Yil</td>
+                </tr>
+                <tr>
+                    <td>Fiyat</td>
+                    <td>@Model.Arac1.Fiyat</td>
+                    <td>@Model.Arac2.Fiyat</td>
+                </tr>
+                <tr>
+                    <td>Motor Hacmi</td>
+                    <td>@Model.Arac1.AracDetay?.motorH</td>
+                    <td>@Model.Arac2.AracDetay?.motorH</td>
+                </tr>
+                <tr>
+                    <td>Koltuk Sayısı</td>
+                    <td>@Model.Arac1.AracDetay?.koltukSay</td>
+                    <td>@Model.Arac2.AracDetay?.koltukSay</td>
+                </tr>
+                <tr>
+                    <td>Motor</td>
+                    <td>@Model.Arac1.AracDetay?.hp</td>
+                    <td>@Model.Arac2.AracDetay?.hp</td>
+                </tr>
+                <tr>
+                    <td>Tork</td>
+                    <td>@Model.Arac1.AracDetay?.tork</td>
+                    <td>@Model.Arac2.AracDetay?.tork</td>
+                </tr>
+                <tr>
+                    <td>Tramer Kaydı</td>
+                    <td>@Model.Arac1.AracDetay?.tramerKaydı</td>
+                    <td>@Model.Arac2.AracDetay?.tramerKaydı</td>
+                </tr>
+                <tr>
+                    <td>Koltuk Sayısı</td>
+                    <td>@Model.Arac1.AracDetay?.koltukSay</td>
+                    <td>@Model.Arac2.AracDetay?.koltukSay</td>
+                </tr>
+                <tr>
+                    <td>Renk</td>
+                    <td>@Model.Arac1.AracDetay?.renk</td>
+                    <td>@Model.Arac2.AracDetay?.renk</td>
+                </tr>
+            </tbody>
+        </table>
+    }
+</body>
+<!-- Bootstrap JavaScript dosyalarını ekleyin -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+</html>

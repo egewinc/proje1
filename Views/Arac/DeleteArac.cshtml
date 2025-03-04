@@ -1,0 +1,37 @@
+@model Ege.ViewModels.AraclarKullanici
+
+<div class="container mt-4">
+    <div class="card shadow-lg border-0">
+        <div class="card-header bg-danger text-white">
+            <h3 class="mb-0">Silme Onayı</h3>
+        </div>
+        <div class="card-body">
+            @if (Model?.Araclar?.Any() == true ||  Model?.Kullanicilar?.Any() == true)
+            {
+                var arac = Model.Araclar.First();
+                var kullanici = Model.Kullanicilar.First();
+
+                <p class="lead">
+                    <strong>@arac.Marka @arac.Model</strong> aracını ve <strong>@kullanici.Ad @kullanici.Soyad</strong> kullanıcısını silmek istediğinize emin misiniz?
+                </p>
+
+                <form asp-controller="Arac" asp-action="DeleteConfirmed" method="post">
+                    <input type="hidden" name="aracId" value="@arac.Id" />
+                    <input type="hidden" name="kullaniciId" value="@kullanici.Id" />
+
+                    <div class="d-flex gap-3">
+                        <button type="submit" class="btn btn-danger">Evet, Sil</button>
+                        <a asp-action="Index" class="btn btn-secondary">İptal</a>
+                    </div>
+                </form>
+            }
+            else
+            {
+                <div class="alert alert-warning">
+                    <p>Silinecek araç veya kullanıcı bulunamadı.</p>
+                </div>
+                <a asp-action="Index" class="btn btn-primary">Geri Dön</a>
+            }
+        </div>
+    </div>
+</div>

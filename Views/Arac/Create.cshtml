@@ -1,0 +1,55 @@
+@model Ege.ViewModels.AraclarKullanici
+
+@{
+    ViewData["Deneme"] = "Yeni Araç ve Kullanıcı Ekle";
+}
+
+<h1>@ViewData["Dneme"]</h1>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+
+    <!-- Kullanıcı Adı -->
+    <div class="mb-3">
+        <label for="ad" class="form-label">Ad</label>
+        <input type="text" class="form-control" id="ad" name="ad" required />
+    </div>
+
+    <!-- Kullanıcı Soyadı -->
+    <div class="mb-3">
+        <label for="soyad" class="form-label">Soyad</label>
+        <input type="text" class="form-control" id="soyad" name="soyad" required />
+    </div>
+
+    <!-- Kullanıcı Yaşı -->
+    <div class="mb-3">
+        <label for="yas" class="form-label">Yaş</label>
+        <input type="number" class="form-control" id="yas" name="yas" required />
+    </div>
+
+    <!-- Araç Marka -->
+    <div class="mb-3">
+        <label for="marka" class="form-label">Marka</label>
+        <input type="text" class="form-control" id="marka" name="marka" required />
+    </div>
+
+    <!-- Araç Modeli -->
+    <div class="mb-3">
+        <label for="model" class="form-label">Model</label>
+        <input type="text" class="form-control" id="model" name="model" required />
+    </div>
+
+    <!-- Araç Yılı -->
+    <div class="mb-3">
+        <label for="yil" class="form-label">Yıl</label>
+        <input type="number" class="form-control" id="yil" name="yil" required />
+    </div>
+
+    <!-- Araç Fiyatı -->
+    <div class="mb-3">
+        <label for="fiyat" class="form-label">Fiyat</label>
+        <input type="number" class="form-control" id="fiyat" name="fiyat" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>
