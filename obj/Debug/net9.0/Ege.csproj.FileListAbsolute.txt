@@ -201,3 +201,4 @@
 /Users/macbookair/Ege/obj/Debug/net9.0/Ege.pdb
 /Users/macbookair/Ege/obj/Debug/net9.0/Ege.genruntimeconfig.cache
 /Users/macbookair/Ege/obj/Debug/net9.0/ref/Ege.dll
+/Users/macbookair/Ege/obj/Debug/net9.0/Ege.sourcelink.json

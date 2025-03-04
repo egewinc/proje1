@@ -1,3 +1,4 @@
+
 namespace Ege.Models
 {
     public class AracDetay
@@ -14,5 +15,6 @@ namespace Ege.Models
         public int hp { get; set; }
         public int tork { get; set; }
 
+    
     }
 }

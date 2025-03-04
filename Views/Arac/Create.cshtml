@@ -4,7 +4,7 @@
     ViewData["Deneme"] = "Yeni Araç ve Kullanıcı Ekle";
 }
 
-<h1>@ViewData["Dneme"]</h1>
+<h1>@ViewData["Deneme"]</h1>
 
 <form asp-action="Create" method="post">
     @Html.AntiForgeryToken()
@@ -49,6 +49,36 @@
     <div class="mb-3">
         <label for="fiyat" class="form-label">Fiyat</label>
         <input type="number" class="form-control" id="fiyat" name="fiyat" required />
+    </div>
+
+    <!-- Motor Hacmi -->
+    <div class="mb-3">
+        <label for="motorH" class="form-label">Motor Hacmi</label>
+        <input type="number" class="form-control" id="motorH" name="motorH" required />
+    </div>
+
+    <!-- Koltuk Sayısı -->
+    <div class="mb-3">
+        <label for="koltukSayisi" class="form-label">Koltuk Sayısı</label>
+        <input type="number" class="form-control" id="koltukSayisi" name="koltukSayisi" required />
+    </div>
+
+    <!-- Motor Gücü -->
+    <div class="mb-3">
+        <label for="motorGucu" class="form-label">Motor Gücü</label>
+        <input type="number" class="form-control" id="motorGucu" name="motorGucu" required />
+    </div>
+
+    <!-- Tork -->
+    <div class="mb-3">
+        <label for="tork" class="form-label">Tork</label>
+        <input type="number" class="form-control" id="tork" name="tork" required />
+    </div>
+
+    <!-- Renk -->
+    <div class="mb-3">
+        <label for="renk" class="form-label">Renk</label>
+        <input type="text" class="form-control" id="renk" name="renk" required />
     </div>
 
     <button type="submit" class="btn btn-primary">Kaydet</button>
